@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+    hello-world:
+        image: hello-world
+    lab1:
+        build: lab1/
